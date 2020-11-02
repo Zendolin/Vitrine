@@ -87,5 +87,11 @@ ul{
     column-count: 2;
 }
 
+:target{
+    position: relative;
+    display: block;
+    margin-top: -150px;
+    padding-top: 150px;
+}
 
 </style>
